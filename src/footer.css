@@ -1,0 +1,17 @@
+/* App.css (or your main stylesheet) */
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* This ensures the content takes at least the full height of the viewport */
+}
+
+.footer {
+    margin-top: auto; /* This pushes the footer to the bottom */
+}
+  
