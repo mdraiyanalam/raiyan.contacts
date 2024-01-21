@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# contact.raiyan
+This repository or site serves as an alternative to the linktr.ee/raiyan_contact, where, an individual can initiate a call with just a gentle tap on the displayed number. This innovative approach eliminates the need for manual dialing, ensuring a smooth and effortless connection with a simple touch.
